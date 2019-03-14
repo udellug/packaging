@@ -13,7 +13,8 @@ A package manager is a something that makes it nice to install packages.
 Talking about Debian package management, because it would be impossible to
 address every case across every distro.
 
-![image](/home/ryan/repos/packaging-demo/package_manager_comparison_table.jpg)
+![image](package_manager_comparison_table.jpg
+)
 
 ![Linux Distro Timeline](https://www.cyberciti.biz/tips/wp-content/uploads/2007/06/44218-linuxdistrotimeline-7.2.png)
 
